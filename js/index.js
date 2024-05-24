@@ -29,16 +29,16 @@
 
 
 // 7-masala
-// let b = +prompt("b");
+// let a = +prompt("a");
 // let s =  +prompt("s");
-// let y = (b-s);
+// let y = (a-s);
 // let h = (y/2)
 // console.log(h);
 
 // 8-masala
-// let b = +prompt("b");
+// let a = +prompt("a");
 // let t =  +prompt("t");
-// let y = (b+t)/2;
+// let y = (a+t)/2;
 // console.log(y);
 
 // 9-masala
